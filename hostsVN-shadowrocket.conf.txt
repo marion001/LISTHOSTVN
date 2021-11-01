@@ -102,10 +102,8 @@ kabbmedia.com
 klick.vn
 lavanetwork.net
 log-vietnamplus-vn.cdn.ampproject.org
-log.api.zaloapp.com
 log.mp3.zing.vn
 log.news.zing.vn
-log.o2o.service.zaloapp.com
 log.tv.zing.vn
 logger.vsmarty.vn
 logv2.mp3.zing.vn
@@ -138,7 +136,6 @@ onmarketer.net
 partner.accesstrade.vn
 phanquang.vn
 philacct.com
-photo-ads.zaloapp.com
 phukienthoitranggiare.com
 piads.vn
 pinetech.vn
@@ -152,8 +149,6 @@ pushdi.com
 pushdy.com
 pushdy.vn
 pushtimize.com
-px.za.zalo.me
-px.za.zaloapp.com
 qc-static.coccoc.com
 qc.coccoc.com
 qc.coccoc.vn
@@ -172,10 +167,8 @@ sourcetobin.com
 sporttv.today
 starseed.fr
 static-addtoany-com.cdn.ampproject.org
-static-ads.zaloapp.com
 static.accesstrade.vn
 stats.vng.com.vn
-stats.zaloapp.com
 subiz-cdn.com
 subiz.com
 subiz.com.vn
@@ -192,7 +185,6 @@ tracking.banner.g6.zing.vn
 tracking.playzing.g6.zing.vn
 tracking.tv.zing.vn
 tricker.vn
-trk-pcweb.api.zaloapp.com
 tuiiu.com
 urekamedia.com
 v9banners-com.cdn.ampproject.org
@@ -203,7 +195,6 @@ viam.com.vn
 vidoomy.com
 vietnamnetad.vn
 vnnayngaytin.vn
-wg.zaloapp.com
 yeah1media.vn
 yeah1publishing.com
 yoads.net
@@ -218,10 +209,8 @@ zalo-ads-td.zadn.vn
 zalo-ads.zadn.vn
 zaloads-480.zdn.vn
 zlog.mp3.zing.vn
-zminer.zaloapp.com
 zplayer-trk.zdn.vn
 zplayer.trk.zapps.vn
-ztevents.zaloapp.com
 12signup.com
 5734a40f2d.vws.vegacdn.vn
 703531862.vws.vegacdn.vn
